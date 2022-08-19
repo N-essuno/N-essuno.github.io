@@ -1,4 +1,4 @@
-# UniTo 2022/23 - Gruppi Corsi di Laurea s 🎓
+# UniTo 2022/23 - Gruppi Corsi di Laurea 🎓
 
 ![logo](https://imgur.com/0j40uci.jpg)
 
