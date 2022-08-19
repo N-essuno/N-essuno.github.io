@@ -1,4 +1,4 @@
-# UniTo - Gruppi Corsi di Laurea per anno 🎓
+## UniTo - Gruppi Corsi di Laurea per anno 🎓
 
 ![logo](https://imgur.com/0j40uci.jpg)
 
