@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# UniTo - Gruppi Corsi di Laurea per anno 🎓
 
-You can use the [editor on GitHub](https://github.com/N-essuno/unito-links.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![logo](https://imgur.com/0j40uci.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+>Lista dei **gruppi matricole** conosciuti per i **Corsi di Laurea dell'Università di Torino** divisi per anno di immatricolazione.<br><br>
+> Ogni link porta alla raccolta di **gruppi conosciuti** per il corrispondente anno <br><br>
+> ⚠️ Altre **informazioni** sono presenti nelle **singole raccolte**! ⚠️
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+>Se hai un **link** da aggiungere o vuoi segnalare una **modifica/rimozione/suggerimento** contatta **[@N_essuno](https://t.me/N_essuno)** (Telegram)<br><br>
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+- [Coorte 2022/23](https://bit.ly/3zkaDWr)
+- [Coorte 2021/22](https://bit.ly/3yNl829)
+- [Coorte 2020/21](https://bit.ly/3gOYSuJ)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/N-essuno/unito-links.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
