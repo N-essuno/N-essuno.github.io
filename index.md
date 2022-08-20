@@ -11,8 +11,8 @@
 
 
 
-- [Coorte 2022/23](https://bit.ly/3zkaDWr)
-- [Coorte 2021/22](https://bit.ly/3yNl829)
-- [Coorte 2020/21](https://bit.ly/3gOYSuJ)
+- [Coorte 2022/23]((https://n-essuno.github.io/coorte2223)
+- [Coorte 2021/22](https://n-essuno.github.io/coorte2122)
+- [Coorte 2020/21](https://n-essuno.github.io/coorte2021)
 
 
