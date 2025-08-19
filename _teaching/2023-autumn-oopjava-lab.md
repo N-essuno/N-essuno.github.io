@@ -8,7 +8,7 @@ date: 09-2023 - 06-2024
 location: "Turin, Italy"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Teaching assistant for the laboratory part of the Object Oriented Programming and Java course. Main topics: Java, Object Oriented Programming paradigm, classes, inheritance, polymorphism, interfaces, exception handling.
 
 <!-- Heading 1
 ======

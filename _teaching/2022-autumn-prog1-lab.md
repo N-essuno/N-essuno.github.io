@@ -8,7 +8,7 @@ date: 10-2022 - 12-2022
 location: "Turin, Italy"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Teaching assistant for the laboratory part of the Programming I course. Main topics: programming fundamentals, java, imperative programming, basic data structures, basic programming strategies, recursion.
 
 <!-- Heading 1
 ======
