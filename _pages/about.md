@@ -16,15 +16,16 @@ Some of my interests are: post-training and evaluation of (large) language model
 
 Danish Foundation Models Initiative
 ======
-I work within the [Danish Foundation Models](https://foundationmodels.dk/) (DFM) initiative, a collaboration between University of Southern Denmark (SDU), University of Copenhagen, Alexandra Institute, University of Aarhus and other companies/institutions.
+I work within the [Danish Foundation Models (DFM)](https://foundationmodels.dk/) initiative, a collaboration between University of Southern Denmark (SDU), University of Copenhagen, Alexandra Institute, University of Aarhus and other companies/institutions.
 
 The project is funded by the Danish government and the goal is the development of language models rooted in the Danish language and culture to serve the Danish public sector while following privacy, security and ethical standards from the European Union.
 
 The use cases and final applications will be many, among all: education, healthcare and law.
 
-
+<!-- 
 Site-wide configuration
 ------
+
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
 Create content & metadata
@@ -38,4 +39,6 @@ The repository includes [a set of Jupyter notebooks](https://github.com/academic
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. 
+
+-->
