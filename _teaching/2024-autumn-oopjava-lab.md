@@ -1,5 +1,5 @@
 ---
-title: "Object Oriented Programming and Java Lab"
+title: "Object Oriented Programming and Java Lab (2024)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2024-autumn-oopjava-lab

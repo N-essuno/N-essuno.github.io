@@ -1,5 +1,5 @@
 ---
-title: "Programming I Lab"
+title: "Programming I Lab (2022)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-autumn-prog1-lab
