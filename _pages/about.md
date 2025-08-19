@@ -18,9 +18,7 @@ Danish Foundation Models Initiative
 ======
 I work within the [Danish Foundation Models (DFM)](https://foundationmodels.dk/) initiative, a collaboration between University of Southern Denmark (SDU), University of Copenhagen, Alexandra Institute, University of Aarhus and other companies/institutions.
 
-The project is funded by the Danish government and the goal is the development of language models rooted in the Danish language and culture to serve the Danish public sector while following privacy, security and ethical standards from the European Union.
-
-The use cases and final applications will be many, among all: education, healthcare and law.
+The project is funded by the Danish government and the goal is the development of language models rooted in the Danish language and culture to serve the Danish public sector while following privacy, security and ethical standards from the European Union. Some of the use cases and final applications are: education, healthcare and law.
 
 <!-- 
 Site-wide configuration
